@@ -1,5 +1,5 @@
 {
-  "name": "benchmarkstudios/slackbox",
+  "name": "nrstewart/slackbox",
   "version": "0.1.4",
   "libraries": {
     "xv": "^1.1.25"
@@ -39,7 +39,7 @@
       "component": "nav",
       "links": [
         {
-          "href": "https://github.com/benchmarkstudios/slackbox",
+          "href": "https://github.com/nrstewart/slackbox",
           "text": "GitHub"
         },
         {
@@ -60,7 +60,7 @@
         },
         {
           "component": "ui/GithubButton",
-          "user": "benchmarkstudios",
+          "user": "nrstewart",
           "repo": "slackbox"
         }
       ],
